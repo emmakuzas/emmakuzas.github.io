@@ -1,5 +1,5 @@
 body{
-	font-family: "Shadows Into Light", sans-serif;
+	font-family: "Letter Gothic Std", sans-serif;
 	width:  1000px;
 	margin:  0 auto;
     padding:  10;
@@ -23,8 +23,8 @@ h2{
 
 
 h4{
-	font-family:  Shadows Into Light;
-	font-size: 20px;
+	font-family:  Letter Gothic Std;
+	font-size: 10px;
 	text-align: center;
 	font-weight: 200;
 	color: #ffffff;
@@ -32,7 +32,7 @@ h4{
 p{
 	font-family:  Shadows Into Light;
 	font-size: 15px;
-	text-align: center;
+	text-align: right;
 	font-weight: 200;
 	color: #000000;
 }
