@@ -65,3 +65,14 @@ p{
   width: 100%;
   background-color:rgb(170, 135, 114);
 }
+/* media Queries*/
+/* desktop size*/
+@media only screen and (max-width: 475px){
+    body{background-color:purple;}
+   
+}
+
+ 
+  div.layer{
+    border-radius:10px
+}
